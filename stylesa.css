@@ -1,0 +1,29 @@
+
+p
+{
+	line-height: 20px;
+	font-size: 140%;
+	text-align: center;
+	color: white;
+	background-color:black;
+}
+    html 
+    { 
+  background: url(wp2578786-hd-black-wallpapers.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.buffer
+{
+	height: 50rem;
+}
+form
+{
+   color: white;
+}
+h1
+{
+	color: white;
+}
